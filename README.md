@@ -1,4 +1,4 @@
-Traveloop
+#Traveloop
 Traveloop is a responsive travel planning prototype for creating multi-city itineraries, discovering cities and activities, estimating trip costs, managing packing items, writing trip notes, and sharing public itineraries.
 
 What is included
